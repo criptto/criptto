@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @criptto
-- 👀 I’m interested in Space
 - 🌱 I’m currently learning React
 
 <!---
